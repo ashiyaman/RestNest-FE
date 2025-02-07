@@ -1,2 +1,3 @@
-# RestNest
-RestNest is a simple and intuitive hotel booking app that helps you find and book your perfect stay with ease. 
+# RestNest 
+
+RestNest is a user-friendly hotel booking app designed to simplify your travel experience. With RestNest, users can easily browse, search, and book accommodations at hotels worldwide, from luxury resorts to budget-friendly options. The app offers real-time availability, user reviews, and a smooth booking process to ensure you find the perfect place to stay, all within a few taps. Key features include personalized recommendations, booking management, and easy check-in/check-out functionality. Whether you're traveling for business or leisure, RestNest helps you plan your trip with ease, making it the ideal companion for every traveler.
