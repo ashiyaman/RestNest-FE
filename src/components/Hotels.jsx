@@ -1,7 +1,7 @@
 import useFetch from "../useFetch"
 
 const Hotels = () => {
-    const { data, loading, error } = useFetch('http://localhost:3000/hotels')
+    const { data, loading, error } = useFetch('https://rest-nest-be.vercel.app/hotels')
     return (
         <div>
             <h2>All Hotels</h2>
