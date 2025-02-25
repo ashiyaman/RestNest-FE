@@ -2,7 +2,6 @@ import useFetch from "../useFetch"
 
 const HotelByName = ({hotelName}) => {
     const { data, loading, error } = useFetch(`https://rest-nest-be.vercel.app/hotels/${hotelName}`)
-    console.log(data)
     return (
         data ? (
             <div>

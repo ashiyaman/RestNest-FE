@@ -44,6 +44,7 @@ const AddHotelForm = () => {
         }
         const data = await response.json()
         console.log('Hotel Added.', data)
+        window.location.reload()
     }
 
     return (
